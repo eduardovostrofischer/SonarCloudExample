@@ -1,0 +1,6 @@
+projectKey=OpenMovie
+serverUrl=http://localhost:9000
+serverVersion=9.1.0.47736
+dashboardUrl=http://localhost:9000/dashboard?id=OpenMovie
+ceTaskId=AXwe3GoS84l4OM1-nl5z
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXwe3GoS84l4OM1-nl5z
